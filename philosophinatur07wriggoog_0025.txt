@@ -1,0 +1,149 @@
+Lunna Tawwaj PRINCIPIA MATHEMATICA. 9
+
+variatio ibi major sit vel minor, augeri debet vel minui sinus ille versus in
+
+eadem ratione.
+
+’ PROBLEMA.
+
+Ex hypothesibus et demonstratis in Proposi-
+tione hac XXVI. exponere rationem secundum
+quam describuntur areae C T P A momenta.
+
+Designet recta C A (in 2ᾶὸ- flgura) tempus
+quo arcus C A describitur, erigantur per singula
+puncta P rectae P M perpendiculares in C A et
+proportionales velocitati tempore C P per vim
+E L genitae3 per ea quae in haic Propositione
+
+‚demonstrantur independenter ab his, illae veloci·
+tates in punctis P arcus C P sunt ut trapezia
+F K C G correspondentia, illa vero trapezia sunt
+
+‘ ut sinus versi duplicatae distantiae Lunae a quad-
+
+ratura proxima, sive ut sinus versus arcus dupli
+
+C P, (ut mox in notis explicabitur) fiant ergo
+
+illoe perpendiculares P M aequales sinui verso
+arcus 2 C P, ultima perpendicularis A H erit
+aqualis ipsi diametro A Β, quia est sinus versus
+dupli quadrantis3 ducatur curva C M H per
+omnium perpendicularium vertices transiens, du-
+catur etiam A R perpendicularis ad C A, sitque
+
+A H ad A R ut velocitas ultimo acquisita in A
+
+ad velocitatem uniformem qua Luna ferretur si
+
+ 
+
+vis E L omnino non ageret, absolvanturque par-
+allelogrammum A R E C, productaque linea
+M P usque ad lineam R E tota linea 1 Μ erit
+ut velocitas Lunae tempore C P, et ducta linea
+guamproxima m p i erit area M P 1 m p i ut area
+
+escriptatempore Pp, ettotaareaRECMH
+repraesentabit totam aream tempore C A descrip-
+tam3 de ’ uesecetur ΑΗ in X et ducaturXY
+parallelo A quae secet curvam C M H in Z
+et ex puncto Z ducatur ordinata Z Q, Liquet
+
+quod si punctum X ita sit assumptum ut parab?
+lelogxammum X R E Y sit aequale mixtilineo m
+
+H ARECMH, erit XR velocitasLunae
+mdioeds, et C Q, tempus quo Luna a quadra-
+tura profecta ‘ad eam velocitatem mediocrem
+
+perveniet. quod quidem ex ipsa constructione .
+
+liquet. Jam autem dico quod illud punctum X
+incidet in medio lineae A H, ita ut haec velocitas
+mediocris X R sit media proportionalis arithme-
+tica inter R A et R H et praeterea quod punc-
+tum Q cadet in mediointerAet C, ita ut ea
+celeritas mediocris in octante obtineatur, (saltem
+ri medium arcus medio temporis respondeat,
+quod proxime verum est juxta notam 110 pras·
+cedentem).
+
+Ut obtineatur itaque area H A P C Μ Η,
+dicatur v arcus CPetdicatur mv recta C P
+quaa arcui C P est proportionalis (saltem quam.
+proxime per not. 110.) et P p sit m d v, sinus
+rectus P K arcus C P dicatur y, sinus vero
+totalis sit r. Ex, notis trigonometriae principiis
+
+-ῑ-’ ⁶¹⁸⁰
+
+ordinata P M ei aequalisest 2 y y, et elementum
+
+r
+25³⁷
+r
+proprietate circuli est V tri-J} y y ad r ut d y
+«ΧΠ-71
+
+elementum evadit {Z ἵζ’-(ἒξ conferatur iliud
+
+elementum cum elemento areae* circuli, radio
+Τ C descripti, dicatur C K, z, K k, d z, ele-
+mentum PpkKestydz,sedestTK
+
+(νῖῗ-ῗ-ΤῧῡᾶΡΚωΝῐΡςωῇοᾱᾳι»
+
+(d z) hinc dz = y d y etelementum a·
+ν rr-yy
+
+ree cir-mli fit ἦ quod elementum est
+
+ad elementum correspondens areae H A PC M H
+ut l ad 2 m, binc tota hmo area est ad aream
+quadrantis T C P A ut 2 m adl, sive si totus
+arcus C P A dicatur c et recta C P A dicatur
+maaraaHAPcMHerit-mrc. Ergosi
+
+sinus versus dupli arcus C P eat
+
+ 
+
+areaeaiveMPpmest mdv,sedex'notfi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.linea A R quae designat velocitatem uniformem
+
+Lunae, cum nulla foret vis E L, dicatur i, area
+A RECeritmlcettotaareaHARECH
+erit m·l c 4- m r c, sive aequalis parallelogram-
+23 ⁰3³3? 2¹1¹ ᾌῖἓέᾱῗζὲἓξέ affl {1¹2² ἕ, ζεῖ
+si sumatur R X = l ÷ r parallelogrammum
+XR'EZ erit aequale mixtilineo H A R E C M H,
+ideoque erit R X sive 1 ÷ r velocitas Lunae
+mediocris, sed erat A H = 2 r, ideoque R Η
+=l÷2r est ergo ΒΧ (Ι-ῇ-τ) mediapro-
+portionalis arithmetice inter R A (l) et R H
+(l 182 r), ergo velocitas mediocris Lunae est
+e ⁸ proportionalis arithmetice inter minimam
+velocitatem Lunae (l) et maximam (l 2 r).
+Qioniam vero ordinata Z Q= A == r est
+sinus versus arcus dupli C P, et est r sinus versus
+arcfis quadrantalis, ergo in hoc casu C P ejus
+

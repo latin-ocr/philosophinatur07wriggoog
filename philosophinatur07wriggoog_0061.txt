@@ -1,0 +1,114 @@
+me ramma] - PRINCIPIA MATHEMATICA. 45
+
+nodi respectu fixarum inter sui ipsius conjunctiones cum Sole3 et hic
+motus de Solis motu annuo graduum 360 subductuS, relinquit 341-81. 40'.
+54⁶. 7 ' '² . motum Solis inter easdem conjunctiones· Iste autem motus est
+ad motum annuum 360⁸& ut nodi motus jam inventus 18⁸¹. 19'. 5''. 53⁰2
+ad ipsius motum annuum, qui propterea erit 19⁸¹. 18'. 1''. 23m. Hic est‘
+
+motus medius nodorum in anno sidereo. (¹²) Idem per tabulas astrono‘- .
+micas est 19⁸³. 21². 2'1‘'. 50'''. Differentia minor est· parte trecentesima
+motfis totiuS, et ab orbis lunaris eccentricitate et inclinatione ad planum
+eclipticae oriri videtur. Per eccentricitatem orbis motus nodorum nimis
+acceleratur, et per ejus inclinationem vicissim retardatur aliquantulum, et
+
+ad justam velocitatem reducitur.
+
+PROPOSITIO XXXIII. PROBLEMA XIV.
+
+Invenire motum verum nodorum Lunae.
+
+In tempore quod est ut area N T A — N d Ζ, motus iste est ut area
+N A e, et inde datur. (¹) Verum ob nimiam‘calculi difficultatem, praestat
+
+bunt motum verum eo ipso tempore, ideoque
+triangulum A T Z repraesentabit differentiam
+motus medii a motu vero, quae debebit subtrahi
+a motu medio ut verus motus habeatur in primo
+
+(¹¹) ²* Idem per tabulas astronomicas. cassinus
+ex antiquis observationibus nodorum motum de-
+terminat in anno communi 190· 19'. 45''. quibus
+additis 49¹ ¹. pro motu nodi per 6¹². 10'. 54‘'.
+
+quibus annus sidereus excedit annum commu-
+nem, motus ergo nodorum iu auno sidereo est
+190. 20¹. 34¹2, ita ut exigua duntaxat quantitate
+differat motus nodorum per calculum inventus,
+ab eo qui ex observationibus deducitur, et is diss·
+sensus est adeo parvus, ut neutiquam. turbet
+argumentum quo confirmetur Newtoniana theo-
+ria ex calculo motus nodorum cum observationi-
+bus collat03 imo dissensus istius causas ex orbis
+Lunae excentricitate et inclinatione fluere indicat
+Newtonus, sed haec hujus'non sunt loci.
+
+(¹) 117. ¹* Veram ob nimiam calculi difficul-
+tatem· Satis liquet maximam futuram calculi
+difficultatem ex ipsis seriebus in notis 115. et
+
+116. adhibitis, quae cum parum convergunt, re-¹
+
+gressum non tantum difficilem, sed etiam parum
+tutum habent3 hinc alia artificia commodiora
+adhibet Ncwtonus, quae ut intelligantur, duas
+hypotheses assumere liceat quibus pedetentim ad
+ipsam constructionem N ewtonianam deveniemus.
+
+Prior ergo hypothesis ea sit quam in Prop.
+XXXII. fingit N ewtonuS, singulis horis retrahi
+nodum iu locum suum priorem, ut non obstante
+motu suo proprio datum servet situm ad fixas3
+interea, ver& Solem progredi a nodo3 ea quippe
+in hypothesi, ex Prop. XXXII. tota area circuli
+repraesentat totum nodorum motum integro anno
+sidereo, ideoque sectores N A T repraesentabunt
+motum medium eo tempore quo Sol discedit a
+
+nodo arcu N A et segmenta N A Z representa-⁶
+
+quadrante, et tertio ut ex ipsa figura liquet3 addi
+autem in secundo et quarto} cum itaque tota
+area circuli sive factum totius peripheriae in ᾗ r,
+designet totum motum nodorum durante anno
+sidereo, repraesentabit A T Z eam aequationem,
+
+quae aequatio cum A Z sit y et T Ζ = V'ff—'y—y‘
+
+est ᾗ y &Tr—:332 dividatur ergo tam circuli
+valor quam areae A T Z valor per ᾖ r, erit peri·
+
+pheria tota ad y rz-yy
+di anno sidereo ad aequationem quaesitam, sive
+”imum &ww-{35²3 ⁵3:¹1?ssssthss ‘'effim‘ss‘
+{igtneceff ‹³1¹3th dltltxtlxibass, erit perissh‘eifia tgtapoad
+
+ 
+
+ut totus motus no-
+
+ 
+
+Q, ut motus semesuis nodi ad ω-
+
+quationem quaesitam: sed ex principiis trigono-⁶
+metriciS, sinus ejus arcus qui foret duplus art-fis
+
+2 5 a! r r - y y ;'
+r
+ergo si describatur circulus radio quocumque
+C B, et sumatur arcus B F duplus, arcus N A,
+hoc est duplus distantia> Solis a nodo (quae dis-
+tantia per motus medios Solis et nodi haberi
+potest) erit peripheria tota ad F H sinum ejus
+arcus B F ut motus semestris nodi ad aequatio·
+nem quaesitam3 ideo producatur D C B in A,
+
+ita ut radius A D sit ad radium C D ut periphe-
+
+ 
+
+N A cujus sinus est y foret
+
+D2
+

@@ -1,0 +1,121 @@
+Lriaemt Taurica] PRINCIPIA MATHEMATICA.
+
+15
+
+(¹³) et quod curvatura ellipseos in A sit ad curvaturam circuli illi-us, in
+duplicata ratione T A ad T C; et (⁰) curvatura circuli illius ad curvatu-
+ram circuli centro T intervallo T C descripti, ut T C ad T A; (P) hujus
+autem curvatura ad curvaturam ellipseos in C, in duplicata ratione T A
+ad Ἰ C; (³) et differentia inter curvaturam ellipseo's in vertice C et cur-
+vaturam circuli novissimi, ad differentiam inter mrvaturam figurae C p a
+in vertice C et curvaturam ejusdem drculi, in duplicata ratione anguli
+C T p ad angulum C T P. Quae quidem rationes ex sinubus angulorum ἦ
+contactus ac differentiarum angulorum facile colliguntur. (²) His autem
+
+circuliutmr—mnsiveur aut RNadmr,
+simili modo patet quod curvatura circuli radio'
+T A descripti est ad differentiam inter curvatu-
+ram ellipseos in vertice A ει curvaturam ejusdem
+circuli ut M R ad N R. Ide6que compositis
+rationibus differentia inter curvaturam orbis
+C p a inaet curvaturam circuli radio TA
+descripti, est ad differentiam inter curvaturam
+ellipseos in A ει curvaturam ejusdem circuli ut
+M R, adm r, hucest, (Cor. 1. Lem. xl. Lib. 1.)
+in ratione duplicata arctis R A ad arcum r a,
+{ver (Iperd consti) inc ''35⁰¹“ duplicata anguli
+, a augu um p.
+
+(¹¹) ⁹ Et quod curvatura ellipseos in A, &c-
+Curvatura ellipseos in A est ad curvaturam cir-
+culi radio T A descripti iu ratione M N ad
+M 123 ducatur verti N X tangenti parallelis, et
+axi occurrens in X, ει pariter R Z, erit per pro·
+prietatem ellipseos A X >< X B ad N X Β ut
+Τ A ⁸ ad T C‚²et per proprietatem circuli erit
+A Z Χ Ζ Β == R Z ⁹, sed quia sumuntur quan-
+titatesnascentesestA x=MN, AZ=MR,
+XB==AB=ZBetNX=RZ,quibus
+valoribffl suo loco substitutis prima proportio
+evaditMNX AB=MR><AB==TA⁴2=
+T C ² ideoque est M N ad M R, sive curvatura
+ellipseos ad curvaturam circuli in duplicata ra-
+tione T A ad Τ C. “
+
+(⁰) * Curvatura circuli, &c- Nam circulorum
+cuffivamrae sunt inverse ut eorumradii (not. 121.
+L1 . Ι.) ’
+
+(Ρ) ” Hujus autem curvatura potest demon-
+strari eo ipso modo quo demonstravimus rationem
+curvatura ellipseos iu A ad curvaturam circuli
+radio T A descripti (not. ¹⁵).
+
+(⁸¹) ¹* Et ‹iffi-entiam inter curvaturam ellip-
+oeos in vertice C, διε. Demonstratio fere eadem
+est ac in nota (¹²²): centro C intervallo T C
+describatur circuli arcus C R r, sit arcus C R ad
+arcum C r, iu ratione auguli C T P ad angulum
+C T p ducatur tangens C M m, et radii T It M,
+T r m quorum prior occurrat ellipsi in N, pos-
+teriorcurvae C p ain n, erit N R=n rpropter
+aquales Τ N, T n per curvae const. et radios
+aquales T R, T r; evanescentibus arcubus C N,
+C u, curvatura ellipseos iu C est ad curvaturam
+circuli radio T C descripti ut M N ad M R,
+ide6que curvaturarum ellipseos et circuli diffc-
+rentia est ad curvaturam circuli ut R N ad M R,
+
+simili modo curvatura circuli est ad c'urvaturam
+orbis C p a ut m r ad m n, ide6que curvatura
+circuli ad differentiam curvatur-amm orbis C p a
+et circuli ut m r ad r n: itaque compositis ratio-
+nibus erit curvaturarum ellipseos ει circuli diffe-
+rentia ad curvaturarum orbis C p a ct circuli
+differentiam ut m r ad Μ R. hoc est in ratione
+duplicata arcus r C ad arcum R C, sivein ra-
+tione duplicata anguli C T p ad angulum C T P.
+
+(⁸) His aulem iuter se collatis, διε. Ut pateat
+ordo quo istae rationes componuntur, dicatur a
+tempus revolutionis synodica, et t tempus revo-
+lutionis periodicae‚ eritque angulus C T P ad
+angulum C T p ut t ads. ’
+
+(1) Differentia curvaturarum orbis C p a in
+a et circuli radio T A descripti, est ad differem
+tiam curvaturarum ellipseos in A ει ejusdem
+circuli ut ι’ ι ad s s not. ¹¹²).
+
+(2) Curvatura ‘paeos iu A ad curvaturam
+αἰτουὶὶῃῖειᾱίο T A descripti ut T A 2 ad T C 2
+
+not. . ’
+( (3) Hinc dividendo, differentia curvaturarum
+ellipseos in A et circuli est ad curvaturam
+ejusdemcirculi utTcss-TAssad T C2: et⁹
+per compositionem 1⁸³· et δ’· proportionis.
+
+(4) Est differentia curvaturarum orbis C p a
+iu a et circuli radio T A descripti ad curvaturam
+ejusTdemsscirculi utstx ΤΑ.9--ἿΙ offulas
+
+(5) Hinc, convertendo curvatura orbis C p a
+iu a ad curvaturam circuli radio T A descripti
+
+ῬέιιΤῦῖ-ιιχῗῖΟἶ-Τ Λῖαάεεχ
+(6) Curvatura circuli radio T A descripti,
+ard ἑᾚῗυᾍαω circuli radio T C descripti ut
+(7) Curvatura circuli radio T C descripti
+ad curvaturam ellipseos in C ut T A ² ad T C ².
+(8) Hinc, convertendo curvatura circuli radio
+T C descripti ad differentiam curvaturarum ejus
+{mxlgetellmseos' in CutTassachss-
+(9) Differentia curvaturarum ellipseos in C
+ct qius circuli radio T C descripti ad differentiam
+curvaturarum figurae C p a iu C ct ejusdem cir-
+culi ut s s ad t ις etper compositionem 8⁸ ει 9⁸·
+proportionis cst.
+(10) Cur-vatum circuli radio T C descripti ad
+differentiam curvaturarum figurae C p a in C et
+

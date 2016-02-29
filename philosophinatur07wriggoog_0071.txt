@@ -1,0 +1,93 @@
+met Tam-ma] PRINCIPIA MATHEMATICA. 55
+
+A est ad. sinum maximum, ut sinus summae angulorum F T N -Ι- Α Τ N
+
+ad radium: hee est fere ut sinus duplae distantiae Solis a loco nodi medio
+(nempe 2 F T N) ad radium. .
+
+scholium.
+
+“ Si motus nodorum mediocris horarius in quadraturis sit 16⁰. 160',
+87¹⁷. 42& hoc est in anuo toto sidereo 39⁰. 38¹. 7‘'. 5o‘''. (¹) erit T H ad
+T K in subduplicatfi ratione numeri 9,082764 ad numerum 10‚0827646‚
+
+hoc εει ιιι 18,6524·761 ad 19,6524761. Et propterea T H ad H K ut
+18‚6524761,ad 1. hoe est ut ructus Solis in anno sidereo ad motum nodi
+medium 19⁰. 18'. 1‘'. 23?st
+
+‘⁶ At si motus medius nodorum Lunae in 20 annis J ulianis sit 360⁰. 50‘.
+1 δ”. sicut ex observationibus in theoria Lunae adhibitis deducitur, motus
+medius nodorum in anno sidereo erit 19⁰. 20¹. 31''. 58'“. Et T H erit
+
+ad H K ut 360⁸& ad 19⁰. 20'. 31⁰. 58⁶2 hoc est ut'18,61214 ‘ad 1. unde
+
+communem ει rectos x ει G εει T F ad T G ut
+F X ad X x, et propter triangula similia ιι V T,
+xXTesseVuadTVsiveTFutande
+sive Β '1⁸3 unde ex perturbato ordine sit V u ad
+TGutFXsive FG-l-BGadBT3est
+itaque Β T= (——————-—-F G ÷VB G) Τ G.
+
+ιι .
+
+Ex hoc Lemmate facile probatur sinum aequa-
+tionis in quovis loco esse ad sinum aequationis
+maximae ut sinus summae angulorum F T N -1-
+A T N ad radium5 nam ex principiis trigono-
+metricis, εει sinus oequationis quaesitae ›sive sinus
+anguli F T B ad sinum anguli F (qui ent Τ G
+cosinus nempe anguli F T N) ιιι εει Β F ad BT
+
+hocoequtestBFadQ—ssH-E} per
+Vu
+
+Lemma3 ducatur uterque consequens in 71-Γὸ
+
+fiet sinus equationis quaesitae ad V ιι qui est si-
+nus summae angulorum F T N 4- A T N ut BF
+ad F G B G, sed ex ιιοιό. praecedenti εει Β F
+ad BF BGutKH ad '1‘K-4-TH, etest
+K H ad T K 4- T H ut sinus aequationis maxi-
+mae ad radium3 hinc tandem, sinus aequationis
+cujusvis ad sinum summae angulorum F T N -1-
+A T N, ut sinus aquationis maximoe ad radium·
+
+(¹) ⁴ Erit ΤΗ ad ΤΚ in subduplioatd ratione,
+&c- Est Τ S ad S K ιιι motus Solis ad motum
+horarium nodi in quadraturis, hoc est, ιιι 360.
+ad 39⁸². 38'. 7”. 5o‘''. sive ut 9.0827646 ad l,
+ergo componendo est T S ad T K ut 9.0827646
+ad 10.0827646. ergoT H media proportionalis
+inter Τ S et T K, est ad T K in subduplicalci
+ratione, ἃς. Reliqua hujtas scholii similibus
+
+In circulo quovis N K n M sumatur arcus
+N F ejusque sinus F G, ex centro ducatur recta
+T B 4 quoe secet hunc sinum in B, dico quod
+sinus summae angulorum F T N, ,A T N erit ad
+T G casinum anguli assumpti F Τ N, ιιι summa
+linearum F G, B G, ad lineam B Τ.
+
+Ex alterii parte puncti N pumamr arcus N V
+·.=.- N A, dueatur T V et producatur F G qum
+
+ 
+
+occurrat radio T V in X, ductoque radio F T
+eoque producto εἰ opus est, ducantur, in ipsum
+perpendiculares X x, V ιι. “
+
+Liquet ex constructione, lineam Β T esse
+aequalem lineoe X T, lineam G X esse aequalem
+lineae Β G, ide6que totam F X esse aequaiem
+summae linearum F G, B (ἐς liquet pariter li-
+neam V u esse sinum arcus F V qui εει summa
+
+arcuum N F et N V sive N A, ει propter trian-
+gula F X x, F T G similia, ob angulum F
+
+calculis deducuntur, qui faciliores sunt quaim ιιι
+plenius explicentur.
+
+Ι
+
